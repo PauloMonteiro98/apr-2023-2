@@ -6,3 +6,14 @@ theme:
 
 repo_name: PauloMonteiro98/apr-2023-2
 repo_ulr: https://github.com/PauloMonteiro98/apr-2023-2
+
+nav:
+  - index.md
+  - pedra.md
+  - papel.md
+  - tesoura.md
+  - ensaios:
+    - ensaios/mermaid.md
+
+plugins:
+  - mermaid2
